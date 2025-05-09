@@ -15,9 +15,7 @@ from images and evaluate them using the Stockfish chess engine.
    → Place `stockfish.exe` in the **same folder** as the app script (e.g., app.py)
 
 2. Install dependencies:
-   Open a terminal in this folder and run:
-   ```
-   pip install -r requirements.txt
+   Double-click 'setup.bat' or run manually:
    ```
 
 3. Run the application:
